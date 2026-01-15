@@ -81,7 +81,7 @@
     <text x="95" y="168" font-size="26" fill="#E5E7EB" opacity="0.92">Arya Swati</text>
 
     <text x="95" y="198" font-size="16" fill="#D1D5DB" opacity="0.80">
-      Security-minded builder · Backend & Dev Tools · Python / FastAPI / Docker
+      Security-minded builder · Backend &amp; Dev Tools · Python / FastAPI / Docker
     </text>
 
     <text x="95" y="235" font-size="18" fill="#A7F3D0" opacity="0.95" filter="url(#glow)">
