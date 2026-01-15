@@ -9,7 +9,7 @@
 <div align="center">
   <a href="mailto:arya.swati.01i@gmail.com"><b>Email</b></a>
   &nbsp;·&nbsp;
-  <a href="YOUR_LINKEDIN_URL"><b>LinkedIn</b></a>
+  <a href="https://www.linkedin.com/in/arya-swati/"><b>LinkedIn</b></a>
   &nbsp;·&nbsp;
   <a href="YOUR_PORTFOLIO_URL"><b>Portfolio</b></a>
 </div>
