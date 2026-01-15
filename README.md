@@ -4,8 +4,6 @@
   <img src="assets/terminal-banner.svg" alt="terminal banner" width="100%"/>
 </div>
 
-![terminal banner](https://raw.githubusercontent.com/arya-s-cmd/arya-s-cmd/main/assets/terminal-banner.svg?sanitize=true)
-
 <br/>
 
 <div align="center">
