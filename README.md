@@ -36,12 +36,6 @@
 
 <br/>
 
-```txt
-$ now
-building: YOUR_CURRENT_FOCUS
-learning: YOUR_ONE_TOPIC
-open_to: YOUR_ROLE (remote / YOUR_CITY)
-```
 
 <br/>
 
