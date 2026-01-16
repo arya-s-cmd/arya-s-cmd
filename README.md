@@ -40,8 +40,8 @@
 <br/>
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=arya-s-cmd&show_icons=true&hide_title=true&include_all_commits=true&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arya-s-cmd&layout=compact&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=arya-s-cmd&show_icons=true&hide_title=true&include_all_commits=true&hide_border=true&theme=transparent" />
+  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=arya-s-cmd&layout=compact&hide_border=true&theme=transparent" />
 </div>
 
 <br/>
