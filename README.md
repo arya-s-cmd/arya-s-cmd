@@ -7,14 +7,24 @@
 <br/>
 
 <div align="center">
-  <samp>
-    ┌─ contact ───────────────────────────────────────────────┐<br/>
-    │ <a href="mailto:arya.swati.01i@gmail.com">email</a>  · 
-      <a href="https://www.linkedin.com/in/arya-swati/">linkedin</a>  · 
-      <a href="YOUR_PORTFOLIO_URL">portfolio</a> │<br/>
-    └──────────────────────────────────────────────────────────┘
-  </samp>
+
+  <a href="mailto:arya.swati.01i@gmail.com"
+     style="text-decoration:none;font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,'Liberation Mono','Courier New',monospace;font-size:13px;">
+    <kbd> email </kbd>
+  </a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/arya-swati/"
+     style="text-decoration:none;font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,'Liberation Mono','Courier New',monospace;font-size:13px;">
+    <kbd> linkedin </kbd>
+  </a>
+  &nbsp;·&nbsp;
+  <a href="YOUR_PORTFOLIO_URL"
+     style="text-decoration:none;font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,'Liberation Mono','Courier New',monospace;font-size:13px;">
+    <kbd> portfolio </kbd>
+  </a>
+
 </div>
+
 
 
 
