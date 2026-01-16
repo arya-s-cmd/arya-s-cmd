@@ -7,17 +7,23 @@
 <br/>
 
 <div align="center">
-  <a href="mailto:arya.swati.01i@gmail.com" title="Email" style="text-decoration:none;">
-    <img alt="Email" src="https://img.shields.io/badge/email-0B0E10?style=for-the-badge&logo=gmail&logoColor=34D399" />
-  </a>
-  <a href="https://www.linkedin.com/in/arya-swati/" title="LinkedIn" style="text-decoration:none;">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0B0E10?style=for-the-badge&logo=linkedin&logoColor=34D399" />
-  </a>
-  <a href="YOUR_PORTFOLIO_URL" title="Portfolio" style="text-decoration:none;">
-    <img alt="Portfolio" src="https://img.shields.io/badge/portfolio-0B0E10?style=for-the-badge&logo=vercel&logoColor=34D399" />
-  </a>
-</div>
 
+  <a href="mailto:arya.swati.01i@gmail.com"
+     style="text-decoration:none;font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,'Liberation Mono','Courier New',monospace;font-size:13px;">
+    <kbd> email </kbd>
+  </a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/arya-swati/"
+     style="text-decoration:none;font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,'Liberation Mono','Courier New',monospace;font-size:13px;">
+    <kbd> linkedin </kbd>
+  </a>
+  &nbsp;·&nbsp;
+  <a href="https://www.arya-s.app"
+     style="text-decoration:none;font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,'Liberation Mono','Courier New',monospace;font-size:13px;">
+    <kbd> portfolio </kbd>
+  </a>
+
+</div>
 
 
 <br/>
