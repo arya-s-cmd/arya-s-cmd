@@ -26,12 +26,12 @@
 <br/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/stack-python-0B0E10?style=flat&logo=python&logoColor=34D399" />
-  <img src="https://img.shields.io/badge/stack-fastapi-0B0E10?style=flat&logo=fastapi&logoColor=34D399" />
-  <img src="https://img.shields.io/badge/stack-docker-0B0E10?style=flat&logo=docker&logoColor=34D399" />
-  <img src="https://img.shields.io/badge/stack-postgres-0B0E10?style=flat&logo=postgresql&logoColor=34D399" />
-  <img src="https://img.shields.io/badge/stack-react-0B0E10?style=flat&logo=react&logoColor=34D399" />
-  <img src="https://img.shields.io/badge/ci-github_actions-0B0E10?style=flat&logo=githubactions&logoColor=34D399" />
+  <img src="https://img.shields.io/badge/python-0B0E10?style=flat&logo=python&logoColor=34D399" />
+  <img src="https://img.shields.io/badge/fastapi-0B0E10?style=flat&logo=fastapi&logoColor=34D399" />
+  <img src="https://img.shields.io/badge/postgres-0B0E10?style=flat&logo=postgresql&logoColor=34D399" />
+  <img src="https://img.shields.io/badge/docker-0B0E10?style=flat&logo=docker&logoColor=34D399" />
+  <img src="https://img.shields.io/badge/react-0B0E10?style=flat&logo=react&logoColor=34D399" />
+  <img src="https://img.shields.io/badge/github_actions-0B0E10?style=flat&logo=githubactions&logoColor=34D399" />
 </div>
 
 <br/>
