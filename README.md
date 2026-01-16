@@ -7,12 +7,17 @@
 <br/>
 
 <div align="center">
-  <a href="mailto:arya.swati.01i@gmail.com"><b>Email</b></a>
-  &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/arya-swati/"><b>LinkedIn</b></a>
-  &nbsp;·&nbsp;
-  <a href="YOUR_PORTFOLIO_URL"><b>Portfolio</b></a>
+  <a href="mailto:arya.swati.01i@gmail.com" title="Email" style="text-decoration:none;">
+    <img alt="Email" src="https://img.shields.io/badge/email-0B0E10?style=for-the-badge&logo=gmail&logoColor=34D399" />
+  </a>
+  <a href="https://www.linkedin.com/in/arya-swati/" title="LinkedIn" style="text-decoration:none;">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0B0E10?style=for-the-badge&logo=LinkedIn&logoColor=34D399" />
+  </a>
+  <a href="YOUR_PORTFOLIO_URL" title="Portfolio" style="text-decoration:none;">
+    <img alt="Portfolio" src="https://img.shields.io/badge/portfolio-0B0E10?style=for-the-badge&logo=vercel&logoColor=34D399" />
+  </a>
 </div>
+
 
 <br/>
 
