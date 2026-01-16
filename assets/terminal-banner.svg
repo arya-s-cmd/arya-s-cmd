@@ -78,7 +78,7 @@
       <tspan fill="#E5E7EB"> whoami</tspan>
     </text>
 
-    <text x="95" y="168" font-size="26" fill="#E5E7EB" opacity="0.92">Arya Swati</text>
+    <text x="95" y="168" font-size="26" fill="#E5E7EB" opacity="0.92">Swati Arya</text>
 
     <text x="95" y="198" font-size="16" fill="#D1D5DB" opacity="0.80">
       Security-minded builder · Backend &amp; Dev Tools · Python / FastAPI / Docker
