@@ -18,7 +18,7 @@
     <kbd> linkedin </kbd>
   </a>
   &nbsp;·&nbsp;
-  <a href="YOUR_PORTFOLIO_URL"
+  <a href="https://www.arya-s.app"
      style="text-decoration:none;font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,'Liberation Mono','Courier New',monospace;font-size:13px;">
     <kbd> portfolio </kbd>
   </a>
